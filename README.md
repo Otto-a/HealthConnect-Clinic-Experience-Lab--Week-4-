@@ -9,8 +9,10 @@ HealthConnect Clinic is an outpatient healthcare provider facing operational cha
 
 The goal of this project is to analyze appointment data, identify factors causing missed visits and provide data-driven insights to improve patient attendance.
 
+## HealthConnect Visualizations
+![HealthConnect](https://github.com/Otto-a/HealthConnect-Clinic-Experience-Lab--Week-4-/blob/main/Project%20kickoff.png)
 
-## 🎯 Week 4 Summary & Tasks Completed
+## Week 4 Summary & Tasks Completed
 In Week 4, the focus was on understanding the business problem and assessing data quality.
 
 ### Key Tasks Completed:
